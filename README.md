@@ -31,9 +31,3 @@ Add screenshots of each page here. Example:
 ![Overview Dashboard](images/page1.png)  
 ![Detailed Analysis](images/page2.png)  
 ![Comparative Insights](images/page3.png)  
-
-*(Tip: Create an `images/` folder in your repo and place your screenshots there. Replace file names in the links above with your actual screenshot names.)*
-
----
-
-## 📂 Project Structure
