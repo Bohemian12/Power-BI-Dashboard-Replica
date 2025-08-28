@@ -26,7 +26,6 @@ The dashboard replicates a professional layout and demonstrates insights across 
 ---
 
 ## 📷 Screenshots
-Add screenshots of each page here. Example:  
 
 ![Overview Dashboard](images/page1.png)  
 ![Detailed Analysis](images/page2.png)  
